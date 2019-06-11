@@ -1,7 +1,7 @@
 # EPN-SUNRGBD: Joint Classification and Amodal Bounding Box Detection
 
 ### Introduction
-This work is based on our paper (https://www.researchgate.net/publication/333676944_Pushing_Boundaries_with_3D_Boundaries_for_Object_Recognition). We propose a novel architecture named \textit{Edge-Aware PointNet}, that incorporates complementary edge information with the recently proposed PointNet++ framework, by making use of convolutional neural networks (CNNs) that jointly infers object class and an amodal bounding box. This work is an extension to the original EPN repository that detects amodal boxes in addition to object class.
+This work is based on our paper (https://www.researchgate.net/publication/333676944_Pushing_Boundaries_with_3D_Boundaries_for_Object_Recognition). We propose a novel architecture named Edge-Aware PointNet, that incorporates complementary edge information with the recently proposed PointNet++ framework, by making use of convolutional neural networks (CNNs) that jointly infers object class and an amodal bounding box. This work is an extension to the original EPN repository that detects amodal boxes in addition to object class.
 
 ![prediction example](https://github.com/Merium88/EPN-SUNRGBD/blob/master/doc/method.jpg)
 
