@@ -9,9 +9,13 @@ In this repository, we release code and data for training the network Edge-Aware
 
 ### Usage
 The code is written as an extension to the original PointNet++ thus the usage and training procedure is the same as for the original repository. (https://github.com/charlesq34/pointnet2)
-To train a model to classify point clouds sampled from ModelNet40:
+To train a model to detect class and amodal bounding box from 10 object categories from SUNRGBD dataset:
 
         python train_modelnet40_edgecnn_sunrgbd.py
 
 
+### To Do
+Add data preparation files.
+Add pretrained model.
+Add prepared data.
 
